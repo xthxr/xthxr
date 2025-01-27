@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate with enthusiastic people to exchange knowledge and learn more.
-- 📫 How to reach me - 1) Email- myselfatharakram@gmail.com 2) instagram- @xthxr___
+- 📫 How to reach me - 1) Email- myselfatharakram@gmail.com 2) instagram- @athar.codes
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I participated in National Coding League and got selected for the Semi-finals. I play chess in free time.
 
