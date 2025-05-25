@@ -58,7 +58,6 @@ Hi! I'm xthxr, a passionate developer who loves building cool things on the web.
 ## 📫 Connect With Me
 
 - 🌐 [My Website](https://xthxr.github.io)
-- 🐙 [GitHub](https://github.com/xthxr)
 
 ---
 
