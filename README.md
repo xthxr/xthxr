@@ -42,6 +42,7 @@ Hi! I'm xthxr, a passionate developer who loves building cool things on the web.
 
 - [**xthxr.github.io**](https://github.com/xthxr/xthxr.github.io): My personal website and playground.
 - [**Micro-Credit**](https://github.com/xthxr/Micro-Credit): A simple banking credit system for micro-businesses.
+- [**Gistify**](https://github.com/xthxr/gistify): An AI powered webpage summarizer
 - _More coming soon..._
 
 ---
