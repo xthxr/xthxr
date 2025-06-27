@@ -18,11 +18,13 @@ Hi! I'm xthxr, a passionate developer who loves building cool things on the web.
 
 ## 🛠️ Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 
 ---
 
@@ -44,15 +46,6 @@ Hi! I'm xthxr, a passionate developer who loves building cool things on the web.
 - [**Micro-Credit**](https://github.com/xthxr/Micro-Credit): A simple banking credit system for micro-businesses.
 - [**Gistify**](https://github.com/xthxr/gistify): An AI powered webpage summarizer
 - _More coming soon..._
-
----
-
-## ✨ Cool Stuff
-
-- 🏷️ Badges for style and status ([Shields.io](https://shields.io/))
-- 🎨 Custom banners and images
-- 📈 Dynamic GitHub widgets
-- 📄 Well-crafted, organized READMEs
 
 ---
 
