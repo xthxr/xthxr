@@ -33,7 +33,7 @@ Hi! I'm xthxr, a passionate developer who loves building cool things on the web.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xthxr&show_icons=true&theme=radical" alt="xthxr's GitHub stats"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=xthxr&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=xthxr&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xthxr&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
