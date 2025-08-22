@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athar Akram</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I know how to use AI correctly</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile%20views&color=0e75b6&style=flat" alt="xthxr" /> </p>
 
