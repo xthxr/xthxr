@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xthxr__" target="blank"><img src="https://img.shields.io/twitter/follow/xthxr__?logo=twitter&style=for-the-badge" alt="xthxr__" /></a> </p>
 
-- 🔭 I’m currently working on [smartsetu-ai](https://smart-setu.vercel.app/)
+- 🔭 I’m currently working on [SmartSetu](https://smart-setu.vercel.app/)
 
 - 🌱 I’m currently learning **Node.js, React.js, python**
 
