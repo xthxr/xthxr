@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athar Akram</h1>
-<h3 align="center">I know how to use AI correctly</h3>
+<h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile%20views&color=0e75b6&style=flat" alt="xthxr" /> </p>
 
