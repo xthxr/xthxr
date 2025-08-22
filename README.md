@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SmartSetu](https://smart-setu.vercel.app/)
 
-- 🌱 I’m currently learning **Node.js, React.js, python**
+- 🌱 I’m currently learning **Linux, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://athar-akram-portfolio.vercel.app/](https://athar-akram-portfolio.vercel.app/)
 
