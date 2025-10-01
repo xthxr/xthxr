@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://xthxr-dev.vercel.app/)
 
-- 📝 I regularly write articles on [https://atharakram.medium.com/](https://atharakram.medium.com/)
+- 📝 I regularly write articles on [Medium](https://atharakram.medium.com/)
 
 - 📫 How to reach me **myselfatharakram@gmail.com**
 
