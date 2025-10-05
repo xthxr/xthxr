@@ -35,12 +35,8 @@
   <a href="https://linkedin.com/in/xthxr"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/xthxr__"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://instagram.com/athar.codes"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://medium.com/@atharakram"><img src="https://skillicons.dev/icons?i=medium" /></a>
-  <a href="https://www.youtube.com/@atharakram"><img src="https://skillicons.dev/icons?i=youtube" /></a>
   <a href="https://dev.to/xthxr"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://www.leetcode.com/xthxr"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
   <a href="https://codeforces.com/profile/xthxr"><img src="https://cdn.simpleicons.org/codeforces/1E90FF" width="45"/></a>
-  <a href="https://www.hackerrank.com/myselfatharakram"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
 </p>
 
 ---
