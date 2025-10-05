@@ -12,7 +12,7 @@
 
 <!-- Profile Views + Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile+Views&color=#5f02c9&style=for-the-badge" alt="Profile views"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=xthxr&theme=matrix&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
   </a>
