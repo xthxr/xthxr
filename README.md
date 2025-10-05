@@ -1,9 +1,9 @@
 <!-- ========================= ✨ ATHAR AKRAM README ✨ ========================= -->
 <!-- Dark Geeky + Terminal Theme -->
 
-<!-- Animated Terminal Header -->
+<!-- Animated Terminal Header (Working Version) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Athar+Akram!;Engineer+%7C+DevOps+Learner+%7C+AI+Enthusiast;Enhancing+Artificial+Intelligence+with+My+Intelligence+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Athar+Akram!;Engineer+%7C+DevOps+Learner+%7C+AI+Enthusiast;Enhancing+Artificial+Intelligence+with+My+Intelligence+⚙️" alt="Typing SVG" />
 </div>
 
 ---
@@ -66,7 +66,9 @@
 
 ### 🎧 Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v3qcgoyrqew5vqlf63c7b2vqvq&cover_image=true&theme=novatorem&bar_color=00FFFF&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://novatorem-xthxr.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+  </a>
 </p>
 
 ---
