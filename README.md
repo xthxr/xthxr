@@ -12,7 +12,7 @@
 
 <!-- Profile Views + Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile views"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=xthxr&theme=matrix&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
   </a>
@@ -54,20 +54,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xthxr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xthxr&theme=radical&hide_border=true&ring=39FF14&fire=00FFFF&currStreakLabel=39FF14"/>
-</p>
-
 ---
 
-### 🎧 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://novatorem-xthxr.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
-
----
 
 <h3 align="center">🚀 "Code. Break. Build. Repeat."</h3>
 
