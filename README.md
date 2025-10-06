@@ -43,7 +43,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,tailwind,flask,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,tailwind,flask,linux,git,vscode,javascript,typescript,css,html" />
 </p>
 
 ---
