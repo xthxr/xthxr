@@ -43,7 +43,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,react,nodejs,nextjs,mongodb,expressjs,typescript,css,html,tailwind,flask,googlecloud,linux,git,github,vscode,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,react,nodejs,nextjs,mongodb,expressjs,typescript,css,html,tailwind,flask,googlecloud,linux,git,github,vscode,docker,kubernetes,postman,vercel,render,jupyter" />
 </p>
 
 ---
