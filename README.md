@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile+Views&color=5f02c9&style=for-the-badge" alt="Profile views"/>
   <a href="https://github.com/xthxr/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=xthxr&theme=onedark" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=xthxr&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
   </a>
 </p>
 
