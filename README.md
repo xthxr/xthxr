@@ -13,8 +13,8 @@
 <!-- Profile Views + Trophies -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xthxr&label=Profile+Views&color=5f02c9&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark" alt="Trophies"/>
+  <a href="https://github.com/xthxr/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=xthxr&theme=onedark" alt="Trophies"/>
   </a>
 </p>
 
