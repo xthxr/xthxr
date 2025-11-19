@@ -22,7 +22,7 @@
 
 ### 💡 About Me
 - 🔭 **Currently Building:** [Link360](https://link360.vercel.app/)  
-- 🌱 **Learning:** Linux • DevOps  
+- 🌱 **Learning:** Data Science
 - 💻 **Portfolio:** [xthxr-dev.vercel.app](https://xthxr-dev.vercel.app/)  
 - 📝 **Writing on:** [Medium](https://atharakram.medium.com/)  
 - 📫 **Reach me:** `myselfatharakram@gmail.com`  
