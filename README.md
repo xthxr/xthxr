@@ -21,7 +21,7 @@
 ---
 
 ### 💡 About Me
-- 🔭 **Currently Building:** [Link360](https://link360.vercel.app/)  
+- 🔭 **Currently Building:** [piik.me](https://link360.vercel.app/)  
 - 🌱 **Learning:** Data Science
 - 💻 **Portfolio:** [xthxr-dev.vercel.app](https://xthxr-dev.vercel.app/)  
 - 📝 **Writing on:** [Medium](https://atharakram.medium.com/)  
