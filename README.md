@@ -23,7 +23,7 @@
 ### 💡 About Me
 - 🔭 **Currently Building:** [piik.me](https://piik.me/)  
 - 🌱 **Learning:** Data Science
-- 💻 **Portfolio:** [xthxr-dev.vercel.app](https://xthxr-dev.vercel.app/)  
+- 💻 **Socials:** [piik.me/xthxr](https://piik.me/xthxr)  
 - 📝 **Writing on:** [Medium](https://atharakram.medium.com/)  
 - 📫 **Reach me:** `myselfatharakram@gmail.com`  
 - ⚡ **Fun Fact:** I love playing chess ♟️  
