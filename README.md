@@ -21,7 +21,7 @@
 ---
 
 ### 💡 About Me
-- 🔭 **Currently Building:** [piik.me](https://piik.me/)  
+- 🔭 **Currently Building:** [PIIK.ME](https://piik.me/)  
 - 🌱 **Learning:** Data Science
 - 💻 **Socials:** [piik.me/xthxr](https://piik.me/xthxr)  
 - 📝 **I usually write on:** [Medium](https://piik.me/xthxr/medium) & [GFG Connect](https://piik.me/xthxr/gfg)
