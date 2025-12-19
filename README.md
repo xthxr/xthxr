@@ -25,7 +25,7 @@
 - 🌱 **Learning:** Data Science
 - 💻 **Socials:** [piik.me/xthxr](https://piik.me/xthxr)  
 - 📝 **Writing on:** [Medium](https://atharakram.medium.com/)  
-- 📫 **Reach me:** `myselfatharakram@gmail.com`  
+- 📫 **Reach me (Email):** `athar@piik.me`  
 - ⚡ **Fun Fact:** I love playing chess ♟️  
 
 ---
