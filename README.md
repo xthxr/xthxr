@@ -24,7 +24,7 @@
 - 🔭 **Currently Building:** [piik.me](https://piik.me/)  
 - 🌱 **Learning:** Data Science
 - 💻 **Socials:** [piik.me/xthxr](https://piik.me/xthxr)  
-- 📝 **Writing on:** [Medium](https://atharakram.medium.com/)  
+- 📝 **I usually write on:** [Medium](https://atharakram.medium.com/) & [GFG Connect](https://www.geeksforgeeks.org/profile/xthxr)
 - 📫 **Reach me (Email):** `athar@piik.me`  
 - ⚡ **Fun Fact:** I love playing chess ♟️  
 
