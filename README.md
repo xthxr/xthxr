@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center" style="color:#39FF14;">💻 I understand only codes</h3>
+<h3 align="center" style="color:#39FF14;">story of a kid who wanted to know about computers</h3>
 
 <!-- Profile Views + Trophies -->
 <p align="center">
