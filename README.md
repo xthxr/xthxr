@@ -3,7 +3,7 @@
 
 <!-- Animated Terminal Header (Working Version) -->
 <div align="center">
- <h3 align="center" style="color:#39FF14;">Hii👋, I am Athar Akram</h3>
+ <h3 align="center" style="color:#39FF14;">Hii, I am Athar</h3>
 </div>
 
 ---
